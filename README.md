@@ -19,10 +19,20 @@ cp -r skills/coding-gems-reel ~/.agents/skills/
 
 Screenshots from `hyperframes/videos/coding-gems-reel-promo`:
 
-![frame 1](screenshots/frame-01.jpg)
-![frame 2](screenshots/frame-02.jpg)
-![frame 3](screenshots/frame-03.jpg)
-![frame 4](screenshots/frame-04.jpg)
-![frame 5](screenshots/frame-05.jpg)
-![frame 6](screenshots/frame-06.jpg)
-![frame 7](screenshots/frame-07.jpg)
+<table>
+  <tr>
+    <td><img src="screenshots/frame-01.jpg" width="200" alt="frame 1"></td>
+    <td><img src="screenshots/frame-02.jpg" width="200" alt="frame 2"></td>
+    <td><img src="screenshots/frame-03.jpg" width="200" alt="frame 3"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/frame-04.jpg" width="200" alt="frame 4"></td>
+    <td><img src="screenshots/frame-05.jpg" width="200" alt="frame 5"></td>
+    <td><img src="screenshots/frame-06.jpg" width="200" alt="frame 6"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/frame-07.jpg" width="200" alt="frame 7"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
