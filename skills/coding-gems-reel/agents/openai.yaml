@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Gems Reel"
+  short_description: "Warm paper coding demos and repo comparisons"
+  default_prompt: "Use $coding-gems-reel to create a reel about the topic I provide."
